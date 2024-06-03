@@ -26,7 +26,7 @@
 
 ## PCB 2D View
 
-![PCB 2D View](https://github.com/TharushaDinujaya/Harry-Potter-Sorting-Hat/blob/main/docs/2DView.png)
+![PCB 2D View](https://github.com/TharushaDinujaya/Harry-Potter-Sorting-Hat/blob/main/docs/2DVIew.png)
 
 ## PCB 3D View
 
